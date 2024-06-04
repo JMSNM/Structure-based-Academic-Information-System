@@ -1,3 +1,4 @@
+# Overview
 The system is designed to manage information about courses and students within an academic institution. It utilizes a structured approach with C++ data structures to organize and manipulate the data efficiently.
 
 # Features
